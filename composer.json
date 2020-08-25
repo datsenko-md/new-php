@@ -1,0 +1,10 @@
+{
+    "name": "max/new-php",
+    "authors": [
+        {
+            "name": "Max Datsenko",
+            "email": "datsenko.md@gmail.com"
+        }
+    ],
+    "require": {}
+}
