@@ -6,5 +6,8 @@
             "email": "datsenko.md@gmail.com"
         }
     ],
+    "autoload": {
+       "psr-4": {"Php\\": "src/"}
+    },
     "require": {}
 }
